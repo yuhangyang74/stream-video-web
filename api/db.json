@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "I createdf this stream",
+      "description": "this stream is about to refactoring",
+      "id": 11
+    },
+    {
+      "title": "Programmatic nac",
+      "description": "you don't see this",
+      "userId": "114107684952809291838",
+      "id": 13
+    },
+    {
+      "title": "Component reuse",
+      "description": "watch me refactor some components",
+      "userId": "114107684952809291838",
+      "id": 14
+    }
+  ]
+}
